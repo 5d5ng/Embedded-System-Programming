@@ -23,8 +23,8 @@
 3. 파일 시스템 사용
 
 4. 
+![image-20200320175053093](https://user-images.githubusercontent.com/43948697/77149952-179e0900-6ad6-11ea-8f8f-73f4b4738810.png)
 
-![image-20200320175053093](C:\Users\LACUC\AppData\Roaming\Typora\typora-user-images\image-20200320175053093.png)
 
 - 루트 디렉토리 
   - 최상위 디렉토리로 / 로 표시
@@ -57,11 +57,7 @@
        - Shell은 ~를 항상 사용자의 홈 디렉토리명으로 대체한다.
 
 6. 명령어 정리
-
-   ![image-20200320180100943](C:\Users\LACUC\AppData\Roaming\Typora\typora-user-images\image-20200320180100943.png)
-
-<img src="C:\Users\LACUC\AppData\Roaming\Typora\typora-user-images\image-20200320180212466.png" alt="image-20200320180212466" style="zoom:80%;" />
-
-![image-20200320180230134](C:\Users\LACUC\AppData\Roaming\Typora\typora-user-images\image-20200320180230134.png)
-
-![image-20200320180257938](C:\Users\LACUC\AppData\Roaming\Typora\typora-user-images\image-20200320180257938.png)
+   ![image-20200320180100943](https://user-images.githubusercontent.com/43948697/77149954-18cf3600-6ad6-11ea-9edf-ee7c87b02a37.png)
+   ![image-20200320180212466](https://user-images.githubusercontent.com/43948697/77149956-18cf3600-6ad6-11ea-8328-a43461a442fb.png)
+   ![image-20200320180230134](https://user-images.githubusercontent.com/43948697/77149957-1967cc80-6ad6-11ea-8b58-a61038672a64.png)
+   ![image-20200320180257938](https://user-images.githubusercontent.com/43948697/77149958-1a006300-6ad6-11ea-8a52-69bc35e33f53.png)
